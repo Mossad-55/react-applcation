@@ -9,19 +9,19 @@ const contentObject = {
 	},
 	services: {
 		service1: {
-			icon: "https://Moamen112.github.io/dental/imgs/services1.svg",
+			icon: "/imgs/services1.svg",
 			header: "Affordable Price",
 			description:
 				"We're here to provide affordable, high-quality dental solutions to meet your needs.",
 		},
 		service2: {
-			icon: "https://Moamen112.github.io/dental/imgs/services2.svg",
+			icon: "/imgs/services2.svg",
 			header: "Professional Dentist",
 			description:
 				"We dedicated to your oral health and well-being.",
 		},
 		service3: {
-			icon: "https://Moamen112.github.io/dental/imgs/services3.svg",
+			icon: "/imgs/services3.svg",
 			header: "Satisfactory Service",
 			description:
 				"Our goal is to provide a level of service that not only meets but exceeds your expectations.",
@@ -37,19 +37,19 @@ const contentObject = {
 				"Our unwavering commitment to excellence, a team of skilled professionals, and a track record of satisfied patients make us the best choice for all your dental needs. Experience the difference with a dental clinic that earns your trust every day.",
 			featureList: {
 				featureList1: {
-					icon: "https://Moamen112.github.io/dental/imgs/feature1.svg",
+					icon: "/imgs/feature1.svg",
 					text: "Modern Equipment",
 				},
 				featureList2: {
-					icon: "https://Moamen112.github.io/dental/imgs/feature2.svg",
+					icon: "/imgs/feature2.svg",
 					text: "Easy Online Appointment",
 				},
 				featureList3: {
-					icon: "https://Moamen112.github.io/dental/imgs/feature3.svg",
+					icon: "/imgs/feature3.svg",
 					text: "Comfortable CIinic",
 				},
 				featureList4: {
-					icon: "https://Moamen112.github.io/dental/imgs/feature4.svg",
+					icon: "/imgs/feature4.svg",
 					text: "Always Monitored",
 				},
 			},
@@ -71,7 +71,7 @@ const contentObject = {
 				},
 			},
 			services: {
-				image: "https://Moamen112.github.io/dental/imgs/feature2.svg",
+				image: "/imgs/feature2.svg",
 				header: "Don't Hesitate to Do Consultation",
 				description:
 					"Your dental health matters, and we encourage you not to hesitate when it comes to seeking a consultation.",
@@ -89,7 +89,7 @@ const contentObject = {
 						hours: "8AM - 10PM",
 					},
 				},
-				button: "Call +01234 567 890",
+				button: "Call +966 55 641 8918",
 			},
 		},
 		feature3: {
@@ -113,22 +113,22 @@ const contentObject = {
 	},
 	counters: {
 		counter1: {
-			image: "https://Moamen112.github.io/dental/imgs/Tooth-white.svg",
+			image: "/imgs/Tooth-white.svg",
 			number: "1200",
 			name: "Happy Client",
 		},
 		counter2: {
-			image: "https://Moamen112.github.io/dental/imgs/clinic-1.svg",
+			image: "/imgs/clinic-1.svg",
 			number: "15",
 			name: "Year Experience",
 		},
 		counter3: {
-			image: "https://Moamen112.github.io/dental/imgs/dentist-white.svg",
+			image: "/imgs/dentist-white.svg",
 			number: "70",
 			name: "Doctor & Staff",
 		},
 		counter4: {
-			image: "https://Moamen112.github.io/dental/imgs/scedule-white.svg",
+			image: "/imgs/scedule-white.svg",
 			number: "340",
 			name: "Online Appointment",
 		},
@@ -142,37 +142,37 @@ const contentObject = {
 		},
 		boxes: {
 			box1: {
-				image: "https://Moamen112.github.io/dental/imgs/offer2.svg",
+				image: "/imgs/offer1.png",
 				title: "Teeth Checkup",
 				description:
 					"Ensure your smile stays healthy with our thorough teeth checkup.",
 			},
 			box2: {
-				image: "https://Moamen112.github.io/dental/imgs/offer2.svg",
+				image: "/imgs/offer2.png",
 				title: "Teeth Whitening",
 				description:
 					"Brighten your smile with our professional teeth whitening services.",
 			},
 			box3: {
-				image: "https://Moamen112.github.io/dental/imgs/offer3.svg",
+				image: "/imgs/offer3.png",
 				title: "Dental Checkup",
 				description:
 					"Transform your smile with precision and care through dental brace.",
 			},
 			box4: {
-				image: "https://Moamen112.github.io/dental/imgs/offer4.svg",
+				image: "/imgs/offer4.png",
 				title: "Teeth Implants",
 				description:
 					"Transform your smile with our expert teeth implants.",
 			},
 			box5: {
-				image: "https://Moamen112.github.io/dental/imgs/offer5.svg",
+				image: "/imgs/offer5.png",
 				title: "Dental Filling",
 				description:
 					"Restore your smile's health and beauty with our expert dental filling services.",
 			},
 			box6: {
-				image: "https://Moamen112.github.io/dental/imgs/offer6.svg",
+				image: "/imgs/offer6.png",
 				title: "Cosmetic",
 				description:
 					"Elevate your smile with our cosmetic dentistry services.",
@@ -188,23 +188,23 @@ const contentObject = {
 		},
 		boxes: {
 			box1: {
-				image: "https://Moamen112.github.io/dental/imgs/review1.svg",
+				image: "/imgs/review1.png",
 				name: "Muhammed Kamal",
-				icon: "https://Moamen112.github.io/dental/imgs/review.svg",
+				icon: "/imgs/review.svg",
 				description:
 					"I can't thank [Clinic Name] enough for their exceptional care. The team is friendly, and the results of my treatment exceeded my expectations.",
 			},
 			box2: {
-				image: "https://Moamen112.github.io/dental/imgs/review2.svg",
+				image: "/imgs/review2.png",
 				name: "Nada Abdelnasser",
-				icon: "https://Moamen112.github.io/dental/imgs/review.svg",
+				icon: "/imgs/review.svg",
 				description:
 					"I was nervous about my dental procedure, but [Clinic Name] made me feel comfortable throughout the process.",
 			},
 			box3: {
-				image: "https://Moamen112.github.io/dental/imgs/review3.svg",
+				image: "/imgs/review3.png",
 				name: "Ahmed Kamal",
-				icon: "https://Moamen112.github.io/dental/imgs/review.svg",
+				icon: "/imgs/review.svg",
 				description:
 					"I've been a patient at [Clinic Name] for years, and the consistent quality of care is what keeps me coming back.",
 			},
@@ -219,7 +219,7 @@ const contentObject = {
 			button: "Show More..",
 		},
 		right: {
-			image: "https://Moamen112.github.io/dental/imgs/contact.svg",
+			image: "/imgs/contact.png",
 		},
 	},
 };

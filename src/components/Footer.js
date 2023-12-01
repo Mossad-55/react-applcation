@@ -15,7 +15,7 @@ const Footer = (props) => {
 					data-aos-delay="50">
 					<FooterLogoListItems>
 						<img
-							src="/imgs/footerlogo.svg"
+							src="/imgs/logo.png"
 							alt="logo"
 						/>
 					</FooterLogoListItems>

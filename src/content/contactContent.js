@@ -12,11 +12,11 @@ const contactContent = {
 			},
 			item2: {
 				title: "Call Us",
-				description: "+01234 567 890",
+				description: "+966 55 641 8918",
 			},
 			item3: {
 				title: "E-mail Us",
-				description: "nadaabdelnasser487@gmail.com",
+				description: "matag_company@gmail.com",
 			},
 		},
 	},

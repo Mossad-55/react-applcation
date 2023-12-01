@@ -280,14 +280,14 @@ const Header = styled.div`
 	align-items: center;
 	height: 315px;
 	background-color: #fff;
-	background-image: url("/imgs/contact3.svg");
+	background-image: url("/imgs/contact3.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 
 	@media (max-width: 768px) {
 		width: 100%;
 		height: 200px;
-		background-image: url("/imgs/contact3.svg");
+		background-image: url("/imgs/contact3.png");
 		box-sizing: border-box;
 	}
 `;

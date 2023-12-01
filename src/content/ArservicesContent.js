@@ -10,42 +10,42 @@ const ArservicesContent = {
 			"اكتشف عالمًا من الخدمات الطبية الشاملة في [اسم العيادة]. من الفحوصات الروتينية إلى العلاجات المتقدمة، نقدم مجموعة واسعة من الخدمات مصممة خصيصًا لتلبية احتياجاتك الطبية الفريدة. التفاني في العناية بصحتك الفموية لدينا لا يتزعزع، ونحن هنا لتقديم الخدمات عالية الجودة التي تستحقها.",
 		offerings: {
 			offering1: {
-				imageSrc: "https://Moamen112.github.io/dental/imgs/offer2.svg",
+				imageSrc: "/imgs/offer1.png",
 				altText: "العرض 2",
 				title: "فحص الأسنان",
 				offeringDescription:
 					"تأكد من أن ابتسامتك تظل صحية مع فحص أسناننا الشامل.",
 			},
 			offering2: {
-				imageSrc: "https://Moamen112.github.io/dental/imgs/offer2.svg",
+				imageSrc: "/imgs/offer2.png",
 				altText: "العرض 2",
 				title: "تبييض الأسنان",
 				offeringDescription:
 					"اجعل ابتسامتك أكثر إشراقًا مع خدماتنا المتخصصة في تبييض الأسنان.",
 			},
 			offering3: {
-				imageSrc: "https://Moamen112.github.io/dental/imgs/offer3.svg",
+				imageSrc: "/imgs/offer3.png",
 				altText: "العرض 2",
 				title: "فحص طبي للأسنان",
 				offeringDescription:
 					"حوّل ابتسامتك بدقة وعناية من خلال تقويم الأسنان.",
 			},
 			offering4: {
-				imageSrc: "https://Moamen112.github.io/dental/imgs/offer4.svg",
+				imageSrc: "/imgs/offer4.png",
 				altText: "العرض 2",
 				title: "زراعة الأسنان",
 				offeringDescription:
 					"حوّل ابتسامتك باستخدام زراعة الأسنان الخبيرة لدينا.",
 			},
 			offering5: {
-				imageSrc: "https://Moamen112.github.io/dental/imgs/offer5.svg",
+				imageSrc: "/imgs/offer5.png",
 				altText: "العرض 2",
 				title: "ملء الأسنان",
 				offeringDescription:
 					"استعيد صحة وجمال ابتسامتك مع خدماتنا الخبيرة في حشو الأسنان.",
 			},
 			offering6: {
-				imageSrc: "https://Moamen112.github.io/dental/imgs/offer6.svg",
+				imageSrc: "/imgs/offer6.png",
 				altText: "العرض 2",
 				title: "تجميل الأسنان",
 				offeringDescription:
@@ -57,28 +57,28 @@ const ArservicesContent = {
 		counters: {
 			counter1: {
 				imageSrc:
-					"https://Moamen112.github.io/dental/imgs/Tooth-white.svg",
+					"/imgs/Tooth-white.svg",
 				altText: "العداد 1",
 				number: "1200",
 				name: "عميل سعيد",
 			},
 			counter2: {
 				imageSrc:
-					"https://Moamen112.github.io/dental/imgs/clinic-1.svg",
+					"/imgs/clinic-1.svg",
 				altText: "العداد 2",
 				number: "15",
 				name: "خبرة لمدة عام",
 			},
 			counter3: {
 				imageSrc:
-					"https://Moamen112.github.io/dental/imgs/dentist-white.svg",
+					"/imgs/dentist-white.svg",
 				altText: "العداد 3",
 				number: "70",
 				name: "الأطباء والموظفين",
 			},
 			counter4: {
 				imageSrc:
-					"https://Moamen112.github.io/dental/imgs/scedule-white.svg",
+					"/imgs/scedule-white.svg",
 				altText: "العداد 4",
 				number: "340",
 				name: "مواعيد العيادة عبر الإنترنت",

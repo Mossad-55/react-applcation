@@ -7,8 +7,8 @@ const aboutUsContent = {
 		headerText: "فريقنا يساعدك في استعادة حياتك على الطريق الصحيح.",
 		smallText:
 			"يستخدم فريقنا من المحترفين المدربين بشكل جيد أحدث التقنيات في العلاج لاستعادة صحتك بسرعة وبسهولة بلا ألم. نقوم بتقييم وعلاج جميع العوامل الجذرية المساهمة المتعلقة بمشكلتك بدقة. وهذا يتضمن، على سبيل المثال لا الحصر، إجهاد العمل والمنزل.",
-		videoURL: "https://Moamen112.github.io/dental/imgs/video.mp4",
-		videoPoster: "https://Moamen112.github.io/dental/imgs/videoPhoto.svg",
+		videoURL: "/imgs/video.mp4",
+		videoPoster: "/imgs/videoPhoto.png",
 	},
 	leaders: {
 		header: "القادة",

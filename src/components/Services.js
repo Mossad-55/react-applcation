@@ -75,7 +75,7 @@ const Services = (props) => {
 						data-aos="fade-up"
 						data-aos-delay="50">
 						<OfferingImage
-							src="/imgs/offer2.svg"
+							src="/imgs/offer1.png"
 							alt="Offering 2"
 						/>
 						<h3>{offeringSection.offerings.offering1.title}</h3>
@@ -109,7 +109,7 @@ const Services = (props) => {
 						data-aos="fade-up"
 						data-aos-delay="150">
 						<OfferingImage
-							src="/imgs/offer2.svg"
+							src="/imgs/offer2.png"
 							alt="Offering 2"
 						/>
 						<h3>{offeringSection.offerings.offering2.title}</h3>
@@ -143,7 +143,7 @@ const Services = (props) => {
 						data-aos="fade-up"
 						data-aos-delay="250">
 						<OfferingImage
-							src="/imgs/offer3.svg"
+							src="/imgs/offer3.png"
 							alt="Offering 2"
 						/>
 						<h3>{offeringSection.offerings.offering3.title}</h3>
@@ -178,7 +178,7 @@ const Services = (props) => {
 						data-aos="fade-up"
 						data-aos-delay="50">
 						<OfferingImage
-							src="/imgs/offer4.svg"
+							src="/imgs/offer4.png"
 							alt="Offering 2"
 						/>
 						<h3>{offeringSection.offerings.offering4.title}</h3>
@@ -212,7 +212,7 @@ const Services = (props) => {
 						data-aos="fade-up"
 						data-aos-delay="150">
 						<OfferingImage
-							src="/imgs/offer5.svg"
+							src="/imgs/offer5.png"
 							alt="Offering 2"
 						/>
 						<h3>{offeringSection.offerings.offering5.title}</h3>
@@ -246,7 +246,7 @@ const Services = (props) => {
 						data-aos="fade-up"
 						data-aos-delay="250">
 						<OfferingImage
-							src="/imgs/offer6.svg"
+							src="/imgs/offer6.png"
 							alt="Offering 2"
 						/>
 						<h3>{offeringSection.offerings.offering6.title}</h3>
@@ -444,14 +444,14 @@ const Header = styled.div`
 	align-items: center;
 	height: 531px;
 	background-color: #fff;
-	background-image: url("/imgs/services.svg");
+	background-image: url("/imgs/services.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 
 	@media (max-width: 768px) {
 		width: 100%;
 		height: 200px;
-		background-image: url("/imgs/services1.png");
+		background-image: url("/imgs/services.png");
 		box-sizing: border-box;
 	}
 `;
@@ -666,14 +666,14 @@ const WorkingHours = styled.div`
 	margin: 60px auto;
 	height: 531px;
 	background-color: #fff;
-	background-image: url("/imgs/hours.svg");
+	background-image: url("/imgs/hours.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 
 	@media (max-width: 768px) {
 		width: 100%;
 		height: 200px;
-		background-image: url("/imgs/hours.svg");
+		background-image: url("/imgs/hours.png");
 		box-sizing: border-box;
 	}
 `;

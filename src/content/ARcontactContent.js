@@ -12,11 +12,11 @@ const ARcontactContent = {
 			},
 			item2: {
 				title: "اتصل بنا",
-				description: "+01234 567 890",
+				description: "+966 55 641 8918",
 			},
 			item3: {
 				title: "راسلنا عبر البريد الإلكتروني",
-				description: "nadaabdelnasser487@gmail.com",
+				description: "matag_company@gmail.com",
 			},
 		},
 	},

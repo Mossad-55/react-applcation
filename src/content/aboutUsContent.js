@@ -7,8 +7,8 @@ const aboutUsContent = {
 		headerText: "Our team helps you get your life back on track.",
 		smallText:
 			"Our team of highly trained professionals uses the latest healing technologies to restore you to pain-free health quickly and easily. We thoroughly evaluate & treat all of the contributing root factors related to your issue. Includes, but is not limited to, your work and home stressors.",
-		videoURL: "https://Moamen112.github.io/dental/imgs/video.mp4",
-		videoPoster: "https://Moamen112.github.io/dental/imgs/videoPhoto.svg",
+		videoURL: "/imgs/video.mp4",
+		videoPoster: "/imgs/videoPhoto.png",
 	},
 	leaders: {
 		header: "The Leaders",

@@ -116,7 +116,7 @@ const Home = (props) => {
 				<RightSection data-aos="fade-left">
 					<HeaderImage
 						src={
-							"/imgs/header.svg"
+							"/imgs/header.png"
 						}
 						alt="Header Image"
 					/>
@@ -194,7 +194,7 @@ const Home = (props) => {
 						className="hidden"
 						data-aos="fade-up">
 						<FeatureImage
-							src="/imgs/feature1.svg"
+							src="/imgs/feature1.png"
 							alt="Feature 1"
 						/>
 					</FeatureLeft>
@@ -352,7 +352,7 @@ const Home = (props) => {
 						data-aos="fade-up"
 						data-aos-delay="100">
 						<FeatureImageService
-							src="/imgs/feature2.svg"
+							src="/imgs/feature2.png"
 							alt="Feature 1"
 						/>
 						<FeatureService
@@ -629,7 +629,7 @@ const Home = (props) => {
 						data-aos="fade-up"
 						data-aos-delay="100">
 						<OfferingImage
-							src="/imgs/offer2.svg"
+							src="/imgs/offer1.png"
 							alt="Offering 2"
 						/>
 						<h3>
@@ -666,7 +666,7 @@ const Home = (props) => {
 						data-aos="fade-up"
 						data-aos-delay="300">
 						<OfferingImage
-							src="/imgs/offer2.svg"
+							src="/imgs/offer2.png"
 							alt="Offering 2"
 						/>
 						<h3>
@@ -703,7 +703,7 @@ const Home = (props) => {
 						data-aos="fade-up"
 						data-aos-delay="500">
 						<OfferingImage
-							src="/imgs/offer3.svg"
+							src="/imgs/offer3.png"
 							alt="Offering 2"
 						/>
 						<h3>
@@ -741,7 +741,7 @@ const Home = (props) => {
 						data-aos="fade-up"
 						data-aos-delay="100">
 						<OfferingImage
-							src="/imgs/offer4.svg"
+							src="/imgs/offer4.png"
 							alt="Offering 2"
 						/>
 						<h3>
@@ -778,7 +778,7 @@ const Home = (props) => {
 						data-aos="fade-up"
 						data-aos-delay="300">
 						<OfferingImage
-							src="/imgs/offer5.svg"
+							src="/imgs/offer5.png"
 							alt="Offering 2"
 						/>
 						<h3>
@@ -815,7 +815,7 @@ const Home = (props) => {
 						data-aos="fade-up"
 						data-aos-delay="500">
 						<OfferingImage
-							src="/imgs/offer6.svg"
+							src="/imgs/offer6.png"
 							alt="Offering 2"
 						/>
 						<h3>
@@ -883,7 +883,7 @@ const Home = (props) => {
 						data-aos="fade-up"
 						data-aos-delay="100">
 						<ReviewImage
-							src="/imgs/review1.svg"
+							src="/imgs/review1.png"
 							alt="Review 1"
 						/>
 						<ReviewName selectedLanguage={props.selectedLanguage}>
@@ -911,7 +911,7 @@ const Home = (props) => {
 						data-aos="fade-up"
 						data-aos-delay="300">
 						<ReviewImage
-							src="/imgs/review2.svg"
+							src="/imgs/review2.png"
 							alt="Review 2"
 						/>
 						<ReviewName selectedLanguage={props.selectedLanguage}>
@@ -939,7 +939,7 @@ const Home = (props) => {
 						data-aos="fade-up"
 						data-aos-delay="500">
 						<ReviewImage
-							src="/imgs/review3.svg"
+							src="/imgs/review3.png"
 							alt="Review 3"
 						/>
 						<ReviewName selectedLanguage={props.selectedLanguage}>
@@ -999,7 +999,7 @@ const Home = (props) => {
 					data-aos="fade-right"
 					data-aos-delay="100">
 					<ContactImage
-						src="/imgs/contact.svg"
+						src="/imgs/contact.png"
 						alt="Header Image"
 					/>
 				</ContactRightSection>
@@ -1426,14 +1426,14 @@ const FeatureMembers = styled.div`
 		width: 100%;
 		height: 300px;
 		background-size: cover;
-		background-image: url("/imgs/member1.svg");
+		background-image: url("/imgs/member1.png");
 	}
 
 	.member-img2 {
 		width: 100%;
 		height: 300px;
 		background-size: cover;
-		background-image: url("/imgs/member2.svg");
+		background-image: url("/imgs/member2.png");
 	}
 
 	@media (max-width: 768px) {
@@ -1755,7 +1755,7 @@ const ContactContainer = styled.div`
 	align-items: center;
 	margin: 60px auto;
 	height: 540px;
-	background-image: url("/imgs/contactbackground.svg");
+	background-image: url("/imgs/contactbackground.png");
 	background-size: cover;
 	${(props) =>
 		props.selectedLanguage === "AR" ? "transform: scaleX(-1);" : ""}

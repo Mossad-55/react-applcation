@@ -8,19 +8,19 @@ const translatedContent = {
 	},
 	ARservices: {
 		service1: {
-			icon: "https://Moamen112.github.io/dental/imgs/services1.svg",
+			icon: "/imgs/services1.svg",
 			header: "أسعار معقولة",
 			description:
 				"نحن هنا لتقديم حلول طبية أسنان بأسعار معقولة وعالية الجودة لتلبية احتياجاتك.",
 		},
 		service2: {
-			icon: "https://Moamen112.github.io/dental/imgs/services2.svg",
+			icon: "/imgs/services2.svg",
 			header: "أخصائي أسنان محترف",
 			description:
 				"نكرس أنفسنا لصحتك الفموية ورفاهيتك.",
 		},
 		service3: {
-			icon: "https://Moamen112.github.io/dental/imgs/services3.svg",
+			icon: "/imgs/services3.svg",
 			header: "خدمة مرضية",
 			description:
 				"هدفنا هو تقديم مستوى خدمة لا يلبي فقط توقعاتك ولكن يتجاوزها.",
@@ -37,19 +37,19 @@ const translatedContent = {
 				"تفانينا الدائم في التميز، فريق من المحترفين الماهرين، وسجل حافل من المرضى المرتاحين يجعلنا الخيار الأفضل لجميع احتياجاتك الطبية السنية. اختبر الفارق مع عيادة طبية تستحق ثقتك كل يوم.",
 			featureList: {
 				featureList1: {
-					icon: "https://Moamen112.github.io/dental/imgs/feature1.svg",
+					icon: "/imgs/feature1.svg",
 					text: "المعدات الحديثة",
 				},
 				featureList2: {
-					icon: "https://Moamen112.github.io/dental/imgs/feature2.svg",
+					icon: "/imgs/feature2.svg",
 					text: "موعد سهل عبر الإنترنت",
 				},
 				featureList3: {
-					icon: "https://Moamen112.github.io/dental/imgs/feature3.svg",
+					icon: "/imgs/feature3.svg",
 					text: "عيادة مريحة",
 				},
 				featureList4: {
-					icon: "https://Moamen112.github.io/dental/imgs/feature4.svg",
+					icon: "/imgs/feature4.svg",
 					text: "رصد مستمر",
 				},
 			},
@@ -71,7 +71,7 @@ const translatedContent = {
 				},
 			},
 			services: {
-				image: "https://Moamen112.github.io/dental/imgs/feature2.svg",
+				image: "/imgs/feature2.png",
 				header: "لا تتردد في الاستشارة",
 				description:
 					"صحتك الفموية تهمنا، ونشجعك على عدم التردد عندما يتعلق الأمر بالبحث عن استشارة طبية.",
@@ -100,12 +100,12 @@ const translatedContent = {
 			button: "عرض المزيد",
 			members: {
 				member1: {
-					image: "https://Moamen112.github.io/dental/imgs/member-img1.jpg",
+					image: "/imgs/member1.png",
 					name: "سارة إيهاب",
 					description: "خبير فى جراحة الأسنان",
 				},
 				member2: {
-					image: "https://Moamen112.github.io/dental/imgs/member-img2.jpg",
+					image: "/imgs/member2.png",
 					name: "عمرو أحمد",
 					description: "خبير فى جراحة الأسنان",
 				},
@@ -114,22 +114,22 @@ const translatedContent = {
 	},
 	ARcounters: {
 		counter1: {
-			image: "https://Moamen112.github.io/dental/imgs/Tooth-white.svg",
+			image: "/imgs/Tooth-white.svg",
 			number: "1200",
 			name: "عميل سعيد",
 		},
 		counter2: {
-			image: "https://Moamen112.github.io/dental/imgs/clinic-1.svg",
+			image: "/imgs/clinic-1.svg",
 			number: "15",
 			name: "خبرة سنوات",
 		},
 		counter3: {
-			image: "https://Moamen112.github.io/dental/imgs/dentist-white.svg",
+			image: "/imgs/dentist-white.svg",
 			number: "70",
 			name: "أطباء وموظفون",
 		},
 		counter4: {
-			image: "https://Moamen112.github.io/dental/imgs/scedule-white.svg",
+			image: "/imgs/scedule-white.svg",
 			number: "340",
 			name: "موعد عبر الإنترنت",
 		},
@@ -143,37 +143,37 @@ const translatedContent = {
 		},
 		boxes: {
 			box1: {
-				image: "https://Moamen112.github.io/dental/imgs/offer2.svg",
+				image: "/imgs/offer1.png",
 				title: "فحص الأسنان",
 				description:
 					"ضمان بقاء ابتسامتك صحية مع فحص أسناننا الدقيق.",
 			},
 			box2: {
-				image: "https://Moamen112.github.io/dental/imgs/offer2.svg",
+				image: "/imgs/offer2.png",
 				title: "تبييض الأسنان",
 				description:
 					"أضيء ابتسامتك مع خدمات تبييض الأسنان المحترفة لدينا.",
 			},
 			box3: {
-				image: "https://Moamen112.github.io/dental/imgs/offer3.svg",
+				image: "/imgs/offer3.png",
 				title: "فحص طبي أسنان",
 				description:
 					"حول ابتسامتك بدقة ورعاية من خلال تقويم الأسنان.",
 			},
 			box4: {
-				image: "https://Moamen112.github.io/dental/imgs/offer4.svg",
+				image: "/imgs/offer4.png",
 				title: "زرع الأسنان",
 				description:
 					"حول ابتسامتك باستخدام زراعة الأسنان الخبيرة لدينا.",
 			},
 			box5: {
-				image: "https://Moamen112.github.io/dental/imgs/offer5.svg",
+				image: "/imgs/offer5.png",
 				title: "ملء الأسنان",
 				description:
 					"استعد صحة وجمال ابتسامتك مع خدمات حشو الأسنان الخبيرة لدينا.",
 			},
 			box6: {
-				image: "https://Moamen112.github.io/dental/imgs/offer6.svg",
+				image: "/imgs/offer6.png",
 				title: "علاج تجميلي",
 				description:
 					"رفع مستوى ابتسامتك مع خدمات طب الأسنان التجميلي لدينا.",
@@ -188,23 +188,23 @@ const translatedContent = {
 		},
 		boxes: {
 			box1: {
-				image: "https://Moamen112.github.io/dental/imgs/review1.svg",
+				image: "/imgs/review1.png",
 				name: "محمد كمال",
-				icon: "https://Moamen112.github.io/dental/imgs/review.svg",
+				icon: "/imgs/review.svg",
 				description:
 					"لا أستطيع شكر [اسم العيادة] بما فيه الكفاية على رعايتهم الاستثنائية. الفريق ودود، ونتائج علاجي تجاوزت توقعاتي.",
 			},
 			box2: {
-				image: "https://Moamen112.github.io/dental/imgs/review2.svg",
+				image: "/imgs/review2.png",
 				name: "ندى عبد الناصر",
-				icon: "https://Moamen112.github.io/dental/imgs/review.svg",
+				icon: "/imgs/review.svg",
 				description:
 					"كنت متوترًا بشأن إجراءي السني، ولكن [اسم العيادة] جعلتني أشعر بالراحة طوال العملية.",
 			},
 			box3: {
-				image: "https://Moamen112.github.io/dental/imgs/review3.svg",
+				image: "/imgs/review3.png",
 				name: "أحمد كمال",
-				icon: "https://Moamen112.github.io/dental/imgs/review.svg",
+				icon: "/imgs/review.svg",
 				description:
 					"لقد كنت مريضًا في [اسم العيادة] لسنوات، والجودة المتسقة للرعاية هي ما يجعلني أعود مرة أخرى.",
 			},

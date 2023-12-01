@@ -79,7 +79,7 @@ const AboutUs = (props) => {
 						<video
 							id="aboutVideo"
 							controls={isPlaying ? "controls" : ""}
-							poster="/imgs/videoPhoto.svg">
+							poster="/imgs/videoPhoto.png">
 							<source
 								src=""
 								type="video/mp4"
@@ -319,14 +319,14 @@ const Header = styled.div`
 	align-items: center;
 	height: 531px;
 	background-color: #fff;
-	background-image: url("/imgs/doctors.svg");
+	background-image: url("/imgs/doctor1.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 
 	@media (max-width: 768px) {
 		width: 100%;
 		height: 200px;
-		background-image: url("/imgs/doctor1.svg");
+		background-image: url("/imgs/doctor1.png");
 		box-sizing: border-box;
 	}
 `;

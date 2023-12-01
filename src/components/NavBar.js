@@ -149,7 +149,7 @@ const NavBarContainer = styled.div`
 `;
 
 const Logo = styled.div`
-	background-image: url("/imgs/logo.svg");
+	background-image: url("/imgs/logo.png");
 	background-size: contain;
 	background-repeat: no-repeat;
 	height: 100%;
